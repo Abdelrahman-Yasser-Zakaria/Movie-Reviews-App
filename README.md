@@ -59,7 +59,7 @@ Before running this project, make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Abdelrahman-Yasser-Zakaria/Movie-reviews-app.git
 cd "Movie app"
 ```
 
