@@ -221,32 +221,6 @@ Movie app/
 - Movie-specific review grouping
 - Error handling and validation
 
-## 🐛 Troubleshooting
-
-### Common Issues
-
-1. **Backend won't start**
-
-   - Check if MongoDB credentials are correct in `.env`
-   - Ensure MongoDB Atlas IP whitelist includes your IP
-   - Verify all dependencies are installed (`npm install`)
-
-2. **Movies not loading**
-
-   - Verify TMDb API key is correct in `config.js`
-   - Check browser console for API errors
-   - Ensure internet connection is stable
-
-3. **CORS errors**
-
-   - Make sure backend server is running on port 8000
-   - Check if frontend is trying to connect to the correct backend URL
-
-4. **Reviews not saving**
-   - Verify MongoDB connection is established
-   - Check backend console for error messages
-   - Ensure proper request format is being sent
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -254,10 +228,6 @@ Movie app/
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
