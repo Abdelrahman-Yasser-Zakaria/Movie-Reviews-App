@@ -229,20 +229,12 @@ Movie app/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 🙏 Acknowledgments
-
-- [The Movie Database (TMDb)](https://www.themoviedb.org/) for providing the movie API
-- [MongoDB Atlas](https://www.mongodb.com/atlas) for cloud database services
-- [Express.js](https://expressjs.com/) for the web framework
-- [Node.js](https://nodejs.org/) for the runtime environment
-
 ## 📞 Support
 
 If you encounter any issues or have questions, please:
 
-1. Check the troubleshooting section above
-2. Search existing issues in the repository
-3. Create a new issue with detailed information about the problem
+1. Search existing issues in the repository
+2. Create a new issue with detailed information about the problem
 
 ---
 
